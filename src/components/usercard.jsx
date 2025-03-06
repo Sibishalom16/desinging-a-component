@@ -1,7 +1,7 @@
 // usercard.jsx
 
 import React from 'react';
-import './UserCard.css'; // (If you're using external CSS for styling)
+
 
 const Usercard = () => {
   // Static data
